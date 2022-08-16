@@ -1,8 +1,7 @@
 import java.io.*
 import java.util.*
-import kotlin.math.min
 
-const val INF = 50000001
+const val INF = Int.MAX_VALUE
 fun main(){
     val br = BufferedReader(InputStreamReader(System.`in`))
     val bw = BufferedWriter(OutputStreamWriter(System.out))
