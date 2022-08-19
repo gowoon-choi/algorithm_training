@@ -26,7 +26,7 @@ fun main(){
         }
         if(count>=c){
             left = mid
-        }else if(count<c){
+        }else{
             right = mid
         }
     }
